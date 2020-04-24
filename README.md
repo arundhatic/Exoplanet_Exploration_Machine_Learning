@@ -24,7 +24,7 @@ Machine learning models were created to classify candidate exoplanets from the r
 
 - SVM, With a linear kernal, obtained a testing accuracy of 88.9 %. few different kernals were attempted but best amongst them was the Linear Model
 - with LR 88.1 % accuracy was achieved
-- with RFC 89.3 % accuracy was seen so the this model was the best amongst the three tried for priction of exoplanet candidacy.
+- with RFC 89.3 % accuracy was seen so the this model was the best amongst the three tried for prediction of exoplanet candidacy.
 
 ## next steps to try
 - model with deep learning techniques might prove better
